@@ -1,0 +1,12 @@
+wantgo = ["Google","Amazon","OpenAI","Microsoft","NTT"]
+print(wantgo)
+print(sorted(wantgo))
+print(sorted(wantgo,reverse=True))
+wantgo.reverse()
+print(wantgo)
+wantgo.reverse()
+print(wantgo)
+wantgo.sort()
+print(wantgo)
+wantgo.sort(reverse=True)
+print(wantgo)
